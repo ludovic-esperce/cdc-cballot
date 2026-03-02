@@ -105,7 +105,7 @@ Cette confirmation ne contiendra aucune information permettant d'identifier le v
 - Analyse fonctionnelle :
     - diagramme de cas d'utilisation ;
     - diagramme de séquence représentant le processus de vote ;
-    - wireframe des écrans à implémenter (il ne vous est pas demandé de concevoir les maquettes haute-fidélité).
+    - zoning/wireframe/haute fidélité des écrans à implémenter.
 - Spécifications techniques :
     - MCD / MLD / MPD de la BDD relationnelle ;
     - liste des **endpoints** de la Web API à concevoir.
